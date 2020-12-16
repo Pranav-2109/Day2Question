@@ -1,0 +1,7 @@
+C:\Users\Pranav Adiraju\Desktop\.net LTI\Git Assignment\PrimeNoSolution\PrimeNo\bin\Debug\PrimeNo.exe.config
+C:\Users\Pranav Adiraju\Desktop\.net LTI\Git Assignment\PrimeNoSolution\PrimeNo\bin\Debug\PrimeNo.exe
+C:\Users\Pranav Adiraju\Desktop\.net LTI\Git Assignment\PrimeNoSolution\PrimeNo\bin\Debug\PrimeNo.pdb
+C:\Users\Pranav Adiraju\Desktop\.net LTI\Git Assignment\PrimeNoSolution\PrimeNo\obj\Debug\PrimeNo.csprojAssemblyReference.cache
+C:\Users\Pranav Adiraju\Desktop\.net LTI\Git Assignment\PrimeNoSolution\PrimeNo\obj\Debug\PrimeNo.csproj.CoreCompileInputs.cache
+C:\Users\Pranav Adiraju\Desktop\.net LTI\Git Assignment\PrimeNoSolution\PrimeNo\obj\Debug\PrimeNo.exe
+C:\Users\Pranav Adiraju\Desktop\.net LTI\Git Assignment\PrimeNoSolution\PrimeNo\obj\Debug\PrimeNo.pdb
