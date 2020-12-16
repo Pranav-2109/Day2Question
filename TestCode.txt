@@ -1,0 +1,2 @@
+Sample Input- Lower-1,Upper-10
+Sample Output-2,3,5,7
